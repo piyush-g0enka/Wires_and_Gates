@@ -1,7 +1,7 @@
  # Wires Logic Gate Evaluator
 
  ## Overview
- This project implements a visual and programmatic simulation of digital logic gates using ASCII circuit diagrams.  
+ This project implements a programmatic simulation of digital logic gates using a combination of NAND gates through ASCII circuit diagrams.  
  It can:
  - Load a circuit diagram from a `.txt` file.
  - Parse it into a grid.
